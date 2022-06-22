@@ -23,7 +23,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: akash346kadam@gmail.com;
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/akash-kadam-29578016a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash kadam" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/akashkadam346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akash kadam" height="30" width="40" /></a>
+  
+  
 **Languages and Tools:*
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
